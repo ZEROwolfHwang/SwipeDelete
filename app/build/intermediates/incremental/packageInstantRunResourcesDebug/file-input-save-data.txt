@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Tue Jan 10 18:39:08 CST 2017
+2.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\layout_delete.xml
+5.set=ANDROID_RESOURCE
+3.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\head_1.png
+2.set=ANDROID_RESOURCE
+4.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+5.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+1.set=ANDROID_RESOURCE
+7.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\adapter_list.xml
+6.set=ANDROID_RESOURCE
+0.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\layout_content.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

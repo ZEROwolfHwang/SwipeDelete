@@ -1,0 +1,7 @@
+#Tue Jan 10 18:39:19 CST 2017
+base.0=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9865e7cd6969af3b95f106849b66fe28f1b935e2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9f80263de064bced5db3aa0efc86844246dc9985\\classes.dex
+base.1=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9f80263de064bced5db3aa0efc86844246dc9985
+file.0=I\:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9865e7cd6969af3b95f106849b66fe28f1b935e2\\classes.dex

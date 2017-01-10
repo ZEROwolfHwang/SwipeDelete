@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "I:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_delete.xml",
+        "source": "I:\\My_Test\\SwipeDelete\\app\\src\\main\\res\\layout\\layout_delete.xml"
+    },
+    {
+        "merged": "I:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_list.xml",
+        "source": "I:\\My_Test\\SwipeDelete\\app\\src\\main\\res\\layout\\adapter_list.xml"
+    },
+    {
+        "merged": "I:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\My_Test\\SwipeDelete\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\My_Test\\SwipeDelete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content.xml",
+        "source": "I:\\My_Test\\SwipeDelete\\app\\src\\main\\res\\layout\\layout_content.xml"
+    }
+]
